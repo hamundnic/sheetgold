@@ -1,0 +1,9 @@
+Building Sheetgold
+
+See doc/readme-qt.rst for instructions on building Sheetgold-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sheetgold.
+
+See doc/build-*.txt for instructions on building sheetgoldd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sheetgold.

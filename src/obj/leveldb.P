@@ -1,0 +1,24 @@
+obj/leveldb.o: leveldb.cpp leveldb.h serialize.h allocators.h version.h \
+ clientversion.h /home/sheetgold/src/leveldb/include/leveldb/db.h \
+ /home/sheetgold/src/leveldb/include/leveldb/iterator.h \
+ /home/sheetgold/src/leveldb/include/leveldb/slice.h \
+ /home/sheetgold/src/leveldb/include/leveldb/status.h \
+ /home/sheetgold/src/leveldb/include/leveldb/options.h \
+ /home/sheetgold/src/leveldb/include/leveldb/write_batch.h util.h \
+ uint256.h netbase.h compat.h \
+ /home/sheetgold/src/leveldb/include/leveldb/env.h \
+ /home/sheetgold/src/leveldb/include/leveldb/cache.h \
+ /home/sheetgold/src/leveldb/include/leveldb/filter_policy.h \
+ /home/sheetgold/src/leveldb/helpers/memenv/memenv.h
+leveldb.cpp leveldb.h serialize.h allocators.h version.h :
+ clientversion.h /home/sheetgold/src/leveldb/include/leveldb/db.h :
+ /home/sheetgold/src/leveldb/include/leveldb/iterator.h :
+ /home/sheetgold/src/leveldb/include/leveldb/slice.h :
+ /home/sheetgold/src/leveldb/include/leveldb/status.h :
+ /home/sheetgold/src/leveldb/include/leveldb/options.h :
+ /home/sheetgold/src/leveldb/include/leveldb/write_batch.h util.h :
+ uint256.h netbase.h compat.h :
+ /home/sheetgold/src/leveldb/include/leveldb/env.h :
+ /home/sheetgold/src/leveldb/include/leveldb/cache.h :
+ /home/sheetgold/src/leveldb/include/leveldb/filter_policy.h :
+ /home/sheetgold/src/leveldb/helpers/memenv/memenv.h :
